@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Renzo Harmse",
+    "description": "",
+    "home_page_url": "https://projectmushroom.github.io/rh-site",
+    "feed_url": "https://projectmushroom.github.io/rh-site/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Renzo Harmse"
+    },
+    "items": [
+    ]
+}
