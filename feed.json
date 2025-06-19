@@ -28,7 +28,9 @@
         {
             "id": "https://projectmushroom.github.io/rh-site/blog-post-3.html",
             "url": "https://projectmushroom.github.io/rh-site/blog-post-3.html",
-            "title": "Blog post 3",
+            "title": "Daily Journal ",
+            "summary": "I have been contemplating if i should keep a daily digital journal&hellip;",
+            "content_html": "<p>I have been contemplating if i should keep a daily digital journal and well here we are, not 100% sure yet I want to share all the things that go on in my mind all over the internet but also feel having this here will show the real, raw thoughts of my life as they happen! </p>\n<p> </p>",
             "image": "https://projectmushroom.github.io/rh-site/media/posts/5/IMG_5027.jpeg",
             "author": {
                 "name": "Renzo Harmse"
@@ -37,7 +39,7 @@
                    "blog"
             ],
             "date_published": "2025-06-17T12:58:46+02:00",
-            "date_modified": "2025-06-17T12:58:46+02:00"
+            "date_modified": "2025-06-19T11:08:41+02:00"
         },
         {
             "id": "https://projectmushroom.github.io/rh-site/blog-post-2.html",
@@ -69,7 +71,7 @@
                    "blog"
             ],
             "date_published": "2025-06-17T12:57:28+02:00",
-            "date_modified": "2025-06-19T11:00:15+02:00"
+            "date_modified": "2025-06-19T11:05:58+02:00"
         }
     ]
 }

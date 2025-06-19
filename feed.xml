@@ -3,7 +3,7 @@
     <title>Renzo Harmse</title>
     <link href="https://projectmushroom.github.io/rh-site/feed.xml" rel="self" />
     <link href="https://projectmushroom.github.io/rh-site" />
-    <updated>2025-06-19T11:04:07+02:00</updated>
+    <updated>2025-06-19T11:08:41+02:00</updated>
     <author>
         <name>Renzo Harmse</name>
     </author>
@@ -37,7 +37,7 @@
         </content>
     </entry>
     <entry>
-        <title>Blog post 3</title>
+        <title>Daily Journal </title>
         <author>
             <name>Renzo Harmse</name>
         </author>
@@ -47,8 +47,19 @@
             <category term="blog"/>
 
         <updated>2025-06-17T12:58:46+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://projectmushroom.github.io/rh-site/media/posts/5/IMG_5027.jpeg" alt="" />
+                    I have been contemplating if i should keep a daily digital journal&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://projectmushroom.github.io/rh-site/media/posts/5/IMG_5027.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>I have been contemplating if i should keep a daily digital journal and well here we are, not 100% sure yet I want to share all the things that go on in my mind all over the internet but also feel having this here will show the real, raw thoughts of my life as they happen! </p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>5 BUSINESS STRATEGIES I LEARNED FROM LANDING KICKFLIPS</title>
