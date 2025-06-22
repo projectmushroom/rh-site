@@ -10,38 +10,6 @@
     },
     "items": [
         {
-            "id": "https://projectmushroom.github.io/rh-site/blog-post-4.html",
-            "url": "https://projectmushroom.github.io/rh-site/blog-post-4.html",
-            "title": "Blog post 4",
-            "summary": "Aenean vitae mauris lacus. Fusce ut velit dapibus, euismod felis non, egestas&hellip;",
-            "content_html": "<p>Aenean vitae mauris lacus. Fusce ut velit dapibus, euismod felis non, egestas justo. In venenatis vitae nulla sed placerat. Pellentesque ornare urna in ornare ullamcorper. Nam viverra elementum nibh, ut posuere ligula vulputate non. Quisque eget ipsum a elit accumsan accumsan. Mauris ut laoreet nulla. Praesent fringilla interdum magna.</p>\n<p>Duis et libero mattis, maximus magna eget, tincidunt nisi. Nulla convallis nisi eu nisi lacinia, at laoreet libero euismod. Phasellus facilisis lectus sed semper elementum. Ut aliquam neque in lectus convallis, nec mattis justo viverra. Donec auctor, eros sed iaculis auctor, dui odio ultrices lorem, in volutpat nisl felis ut orci. Curabitur metus ex, suscipit eu convallis id, dignissim sit amet sem. Nunc mauris velit, congue nec cursus at, ultrices in odio. Nunc laoreet eros ex, non volutpat ipsum hendrerit non. Sed arcu massa, condimentum non dictum eu, mattis eu justo.</p>\n<p>Praesent vehicula ligula massa, nec posuere sem sollicitudin quis. Sed eget tortor nisi. Maecenas sodales porta nisl, eu scelerisque justo lacinia tincidunt. Etiam sodales finibus ligula et vestibulum. In a suscipit sapien. Aliquam ex sapien, blandit sed eleifend vel, ornare vel quam. Pellentesque nibh mi, accumsan sit amet ante sed, lobortis consequat lectus. Vestibulum sed bibendum urna.</p>\n<p>Sed vulputate id purus ut posuere. Aliquam vel libero sit amet eros egestas ultrices in at ante. Suspendisse sit amet eleifend risus. Integer at tortor leo. Integer bibendum tortor sed urna sodales, et semper nibh luctus. Suspendisse nec risus vestibulum, pellentesque ante id, venenatis massa. In at eleifend enim. Nam at nisl ac nulla facilisis sollicitudin a quis lorem. Praesent tincidunt felis id fermentum congue.</p>",
-            "image": "https://projectmushroom.github.io/rh-site/media/posts/6/WLD_7912.JPG",
-            "author": {
-                "name": "Renzo Harmse"
-            },
-            "tags": [
-                   "blog"
-            ],
-            "date_published": "2025-06-17T12:59:32+02:00",
-            "date_modified": "2025-06-17T12:59:32+02:00"
-        },
-        {
-            "id": "https://projectmushroom.github.io/rh-site/blog-post-3.html",
-            "url": "https://projectmushroom.github.io/rh-site/blog-post-3.html",
-            "title": "Daily Journal ",
-            "summary": "I have been contemplating if i should keep a daily digital journal&hellip;",
-            "content_html": "<p>I have been contemplating if i should keep a daily digital journal and well here we are, not 100% sure yet I want to share all the things that go on in my mind all over the internet but also feel having this here will show the real, raw thoughts of my life as they happen! </p>\n<p> </p>",
-            "image": "https://projectmushroom.github.io/rh-site/media/posts/5/IMG_5027.jpeg",
-            "author": {
-                "name": "Renzo Harmse"
-            },
-            "tags": [
-                   "blog"
-            ],
-            "date_published": "2025-06-17T12:58:46+02:00",
-            "date_modified": "2025-06-19T11:08:41+02:00"
-        },
-        {
             "id": "https://projectmushroom.github.io/rh-site/blog-post-2.html",
             "url": "https://projectmushroom.github.io/rh-site/blog-post-2.html",
             "title": "5 BUSINESS STRATEGIES I LEARNED FROM LANDING KICKFLIPS",
